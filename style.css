@@ -1,0 +1,39 @@
+* {
+    margin: 0
+}
+
+body {
+    text-align: center;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+    border: none;
+    border:  5px;
+    color: purple;
+    font-weight: 800;
+    font-size: 1.2em;
+    margin: 0 10px;
+    margin-top: 2%;
+}
+
+input {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    margin: 0 10px;
+}
+
+li {
+    list-style-type: none;
+    /* margin: 10px; */
+    color: purple;
+}
+
+.checkedTask {
+    text-decoration: line-through;
+}
+
+span {
+    font-size: 1.2em;
+}
